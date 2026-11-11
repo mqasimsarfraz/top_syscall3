@@ -1,8 +1,8 @@
-name: "@GADGET_NAME@"
+name: "top_syscall3"
 description: Periodically report chdir syscall counts by process
-homepageURL: https://github.com/@REPOSITORY@
-documentationURL: https://github.com/@REPOSITORY@#readme
-sourceURL: https://github.com/@REPOSITORY@
+homepageURL: https://github.com/mqasimsarfraz/top_syscall3
+documentationURL: https://github.com/mqasimsarfraz/top_syscall3#readme
+sourceURL: https://github.com/mqasimsarfraz/top_syscall3
 datasources:
   calls:
     fields:
